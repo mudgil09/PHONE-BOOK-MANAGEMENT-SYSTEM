@@ -1,0 +1,2 @@
+# PHONE-BOOK-MANAGEMENT-SYSTEM
+The project PHONE BOOK MANAGEMENT SYSTEM provides users with a single place to find and view all the contacts. It also helps in handling telephone records, like adding the telephone contacts, deleting the telephone contacts, searching the telephone contacts, displaying all the contacts, Updating/Modify the contacts. Phone book management System project helps the user for easy management of contact details. This project is easy to operate and understood by the users. 
